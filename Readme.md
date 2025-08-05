@@ -2,4 +2,5 @@
 - Estodo del proyecto: en proceso.
 
 Para ejecutar el sistema, debe poner: 
+‘’’npm install react’’’.
 
